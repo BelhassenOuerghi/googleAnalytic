@@ -1,0 +1,165 @@
+[
+    {
+        "Category": "Produktkategorie",
+        "URL" : "category=",
+        "products": { 
+            "Applikationen" : "APP",
+            "Services" : "SERVICE",
+            "Content" : "CONTENT"    
+        }
+    }
+    ,
+    {
+        "Category": "Zertifizierungen",
+        "URL" : "certificationType=",
+        "products": { 
+            "Merkmal-Zertifizierungen" : "ATTRIBUTE_CERT",
+            "Produkttyp-Zertifizierungen" : "PTG_CERT"  
+        }
+    }
+    ,
+    {
+        "Category": "BIM",
+        "URL" : "attr=",
+        "products": { 
+            "OpenBIM" : "14",
+            "ClosedBIM" : "15"  ,
+            "IFC2X3" : "117"  ,
+            "IFC4" : "118"  ,
+            "BCF" : "120"  
+        }
+    }
+    ,
+    {
+        "Category": "Installation",
+        "URL" : "attr=",
+        "products": { 
+            "Server-Installation" : "29",
+            "Computer-Installation" : "30"  ,
+            "Cloud-basiert" : "31"  ,
+            "Webanwendung" : "123"  ,
+            "Online-Plattform" : "124",
+            "Mobile Anwendung":"125" 
+        }
+    }
+    ,
+    {
+        "Category": "Lizenzmodell",
+        "URL" : "attr=",
+        "products": { 
+            "Rabattiert" : "26",
+            "Kostenfrei" : "27"  ,
+            "Kostenpflichtig" : "128"  
+        }
+    }
+    ,
+    {
+        "Category": "Zielgruppe",
+        "URL" : "attr=",
+        "products": { 
+            "Bauherren" : "1",
+            "Architekten" : "2"  ,
+            "Tragwerksplaner" : "4",
+            "TGA-Planer" : "5",
+            "Anlagenplaner" : "6"  ,
+            "Bauphysiker" : "7",
+            "Geotechniker" : "8",
+            "Infrastrukturplaner" : "9"  ,
+            "Bauunternehmer" : "10" ,
+            "Handwerker" : "11",
+            "Betreiber" : "12"  ,
+            "Händler" : "13" ,
+            "Projektsteuerer" : "114",
+            "BIM-Manager" : "115"  ,
+            "Makler" : "116" ,
+            "Fachplaner" : "126",
+            "Facility Management" : "129"    
+        }
+    }
+    ,
+    {
+        "Category": "Leistungsphasen nach HOAI",
+        "URL" : "attr=",
+        "products": { 
+            "LPH 1 Grundlagenermittlung" : "16",
+            "LPH 2 Vorplanung" : "17"  ,
+            "LPH 3 Entwurfsplanung" : "18",
+            "LPH 4 Genehmigungsplanung" : "19",
+            "LPH 5 Ausführungsplanung" : "20"  ,
+            "LPH 6 Vorbereitung der Vergabe" : "21",
+            "LPH 7 Mitwirkung bei der Vergabe" : "22",
+            "LPH 8 Bauüberwachung" : "23"  ,
+            "LPH 9 Objektbetreuung & Dokumentation" : "24"    
+        }
+    }
+    ,
+    {
+        "Category": "Bewertungen",
+        "URL" : "rating=",
+        "products": { 
+            "5 Stars" : "5",
+            "4 Stars" : "4"  ,
+            "3 Stars" : "3",
+            "2 Stars" : "2",
+            "1 Stars" : "1"  ,
+            "0 Stars" : "0" 
+        }
+    }
+,
+{
+    "Category": "Anwendungsfälle",
+    "URL" : "attr=",
+    "products": {
+        "010 Modellierung": "79",
+        "020 Projektkollaboration": "80",
+        "030 Besprechungen": "81",
+        "040 Datenableitung": "82",
+        "050 Bewertung und Regelprüfung": "83",
+        "060 Dokumentenverknüpfung": "84",
+        "070 Mengenermittlung": "85",
+        "080 Terminplanung": "86",
+        "090 Berichtswesen": "87",
+        "100 Bestandserfassung": "88",
+        "110 Vermessung": "89",
+        "120 Planungsvariantenuntersuchung": "90",
+        "130 Visualisierung": "91",
+        "140 Bemessung, Nachweisführung, Simulation": "92",
+        "150 Koordination": "93",
+        "160 Raumbuch": "94",
+        "170 Planungsfortschrittkontrolle": "95",
+        "180 Entwurfs- und Genehmigungsplanerstellung": "96",
+        "190 Arbeits- und Gesundheitsschutz": "97",
+        "200 Planungsfreigabe": "98",
+        "210 Kostenschätzung und -berechnung": "99",
+        "220 Leistungsverzeichnis, Ausschreibung, Vergabe": "100",
+        "230 Vorfertigung und Kommissionierung": "101",
+        "240 Logistikplanung": "102",
+        "250 Ausführungsplanerstellung": "103",
+        "260 Baufortschrittskontrolle": "104",
+        "270 Bauüberwachung": "105",
+        "280 Änderungsmanagement": "106",
+        "290 Abnahme und Abrechnung": "107",
+        "300 Mängelmanagement": "108",
+        "310 As-Built-Modell" : "109",
+        "320 Übernahme in Betrieb und Erhaltung" : "110",
+        "330 Fortschreibung in Betriebsphase" : "111",
+        "340 Anlagenkataster" : "112",
+        "350 Objektabbruch" : "113"
+    }
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

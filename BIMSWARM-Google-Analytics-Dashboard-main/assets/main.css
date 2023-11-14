@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap');
+
+* {
+    font-family: "Inter", sans-serif !important;
+}
+
+.total-cards-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 0;
+    flex-wrap: wrap;
+
+
+}
+
+.total-card-wrapper {
+    padding: 0 15px;
+    width: 20%;
+    min-width: 230px;
+    flex-shrink: 0;
+    flex-grow: 1;
+
+}
+
+ .graph-card{
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 15px;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
+    margin: 15px 0;
+    text-align: right;
+    max-height: 50vh;
+    min-height: 50vh;
+    overflow: auto;
+}
+
+.map-card{
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 15px;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
+    margin: 15px 0;
+    text-align: right;
+}
+
+.total-card{
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 15px;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
+    margin: 15px 0;
+    text-align: center;
+    max-height: 50vh;
+    overflow: auto;
+
+}
+
+.total-card .title, .graph-card .title, .map-card .title {
+    font-size: 1em;
+    font-weight: 500;
+    color: #00000070;
+    margin: 0;
+
+}
+
+.total-card .total-value {
+    font-size: 2em;
+    font-weight: 700;
+    margin-top: 0.5vh;
+}
+
+.datepicker-wrapper {
+    padding-top: 65px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.CalendarDay{
+    border:none !important;
+}
+
+.CalendarDay__selected, .CalendarDay__selected_span{
+    background: #74b9ff !important;
+}
+
+.CalendarDay__selected_start {
+    border-top-left-radius: 24px !important;
+    border-bottom-left-radius: 24px !important;
+}
+
+.CalendarDay__selected_end {
+    border-top-right-radius: 24px !important;
+    border-bottom-right-radius: 24px !important;
+}
+
+.DayPickerKeyboardShortcuts_buttonReset {
+    display: none;
+}
+
+.DateInput_input__focused{
+    color: #74b9ff;
+    border-color: transparent;
+}
+
+.DateInput_input{
+    font-weight: 500;
+}
+
+.DateInput_input, .DateInput{
+    background: rgba(0,0,0,0) !important;
+}
+
+.DateRangePickerInput__withBorder{
+    border-radius: 1000px;
+    border-color: rgb(72,72,72);
+    border-width: 2px;
+    padding: 0 15px;
+    background-color: #fff;
+    margin-left: 0px;
+}
+
+.DateRangePicker {
+    position: inherit;
+    display: inline-block;
+    left: 150%;
+    margin: 1vh;
+}
+
+.Select-value-label{
+    font-weight: 500;
+    text-align: center;
+}
+
+.Select-value{
+    display: grid;
+}
+
+
+.Select-control{
+    border-radius: 1000px;
+    border-color: rgb(72,72,72);
+    border-width: 2px;
+    padding: 0 15px;
+    background-color: #fff;
+    width: 20vw;
+    height: 3vh;
+    text-align: center;
+    margin-right: 10px;
+}
+
+
+
+#transactions-per-region-map{
+    height: 100%;
+}
+
+#map-dropdown{
+    display: none;
+}

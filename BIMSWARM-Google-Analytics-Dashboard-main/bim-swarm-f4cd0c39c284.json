@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bim-swarm",
+  "private_key_id": "f4cd0c39c284c337b136fd6cb047244c87cf76f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDAz7bWQqbRXuBd\nAKPpCM0lpPI98kPh2puz1Yy4jcw/OreIJ6M6oYXwJPj73fvu5A4hqCWsoSKK48hq\nJbzyq2R6uGP4Gkw6ctzwDurXnHqpT0ULDieWBajLK359mi9vHNwzhT5iwGeRbIOU\nML4bxZ3PoG22W9GRGFcQVpYtVMAZl+k9yv5wZILPY8xxbylFwVNeouvOYQwDlXYk\nFs0FuhUR8wOjuHFT0DldLSqKREC5krm8VHrBNF24nGa2s7Lp1PnEXKhKlo5Idv4J\n2ZmW4RR/kBJFyi99bGiV0nlG6XjR0jOr41M66LIupnwQ4b6GUcAEs9LaRf41U8PR\nex1zG34XAgMBAAECgf8cYcLloG8BrfWgsSy5NQxrLw5ukCCMVW4FvS0z9XAyccFX\nduhxDrJp+esXsHd94Poc2CU7zujHs5pOzbMLAaVIQM4BOF9ttRlaYw06Dq/psGvM\nKRazFoOY5HC938DHgjPuyHglpA1nhBwk/67QYpygR2lTEUI5MDjhgBxomKEOBXs6\nscvShVnk1Pv/pQPZ3BRXkkolDsPty8efTMTu05gfJMzqtIofiYNATmVhyk+3VnzD\nOXKmk9vwoacdrMjyW9PkuPwg4oLBMCzoaCtovopq0c5Wi0m9MvOT4wmxreFrqgoE\n+AtuqcUkKEbD6In4B0Vfg9omYyUS77dJBoIrv3kCgYEA7thXU+nYT0KQyWh6ZIyP\nejrgIzOkt2rKIQ08bDu42FwUmeRqaJyP/+TTRtiyOKHGNzrc81WhaBoKFf+J7kei\nPSwuUWuEWAfeIARKIz2HtLgAyT94pYHC/Yf066BGq4W2koyXtoUIfWZHTMR6fJCl\npN6OSq+uiyMYXpjaKudLNXsCgYEAzqjy3cd2V2Svowmyvn1VRNeHE4UON/MvGdml\n2gXPH30GkzQ00GeyimqfxcdggiFplyfsbyBffs+N8EXcn772JbMa5Iq0PmWXOUTx\n+Esc/hGHzRwU1GtTNO55XFjsRNbxAnxJjcw2LF+SmN0m5O5AWTxAmpDCufSNrBms\nJ6Md4RUCgYAN2F6fj6OpXIt2EWde4sMCa91ITRsUQs16wwCoqYGakSPkk9gTPlge\nlk4lAjS6ka4iz3e1Z1ZW6YOCKPD+7goaj7ATqi7ex335zyXZCx0NvcjV4acFuRLr\njXEGI6FVGgguUJYOz4Fhe4dQjOcox13Cw9/ttmdgy2UDPssOx5+VdwKBgBZKeO/d\nHPGuRZejaylK4ZCsYsCDQJZeX709EbujlsTBupzUK8Iy/Toa6CLwL4O50ObiAom2\nBzbpcljxYCvG8Ev+tq7iGzEDyjz+J89tYrIw9+Hy3nhPH0l9U4/Xc5y1RofLGi/2\nT/2XTXu5lwFohX5almlVpfti2okut7gKyyVFAoGAMO4cSv6lH1khwqTmuZ9/TRzU\nt2Sw7p0L0egMgc5T+OHjT4Zm9FCsdmT+h5d9LMxuWEJmXHifeUG0HOtjiRYhyXbK\nNFYvxmQZAVn0B2L3VY1YIbbWJ2946WZ/2NKe/61FLdxdmHyKxp+huqMHBlaFxhFV\nLFGLl1rehA/XtqsaX4w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bim-swarm-api-client@bim-swarm.iam.gserviceaccount.com",
+  "client_id": "102285147286566988280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bim-swarm-api-client%40bim-swarm.iam.gserviceaccount.com"
+}
